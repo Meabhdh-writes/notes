@@ -6,4 +6,4 @@ theme:
     background: yellow
 
 nav:
-  - Index: index.md
+  - Index: main.md
