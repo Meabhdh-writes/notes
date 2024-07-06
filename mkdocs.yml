@@ -1,0 +1,9 @@
+site_name: Notes
+
+theme:
+  name: simple-blog
+  colors:
+    background: yellow
+
+nav:
+  - Index: index.md
